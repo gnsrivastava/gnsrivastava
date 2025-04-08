@@ -1,4 +1,4 @@
-- 👋 Hi!, I’m Gopal Srivastava, a Biological Sciences PhD student at LSU
+- 👋 Hi!, I’m Gopal Srivastava, a Biological Sciences PhD candidate @ Louisiana State University
 - 🔭 I’m currently working on predicting drug pair synergy prediction and cancer susceptibility prediction using graph neural networks
 - 👀 I’m interested in using data science and machine learning to solve bio relevant problems
 - 🌱 I’m currently learning cancer genomics and utilizing bioinformatics tools for GWAS data processing
