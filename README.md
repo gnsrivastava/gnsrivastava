@@ -1,18 +1,20 @@
 - 👋 Hi!, I’m Gopal Srivastava, a Biological Sciences PhD candidate @ Louisiana State University
   
 - 🔭 **I’m currently working on**
-  1. LLM based binding affinity prediction of small molecules
-  2. simulataneous node classification to predict binding affinity of small molecules
-  3. scRNA analysis project to identify the cancer stem cells and their driver genes in colorectal cancer
-  4. GNN based gut microbial metabolism of the human metabolites
+  1. Data based prediction of antibiotic resistance and susceptibility in mircobes
+  2. LLM based binding affinity prediction of small molecules
+  3. simulataneous node classification to predict binding affinity of small molecules
+  4. scRNA analysis project to identify the cancer stem cells and their driver genes in colorectal cancer
+  5. GNN based gut microbial metabolism of the human metabolites
      
 - 💻 **Past Projects:**
-  1. Predicting the gut microbial metabolism of the human metabolites
-  2. Predicting GNN based drug pair synergy prediction. 
+  1. Predicting the gut microbial metabolism of the human metabolites (GutMicrobeMetaboliteInteraction)
+  2. Predicting GNN based drug pair synergy prediction (Analysis_for_Synergy_Data_Augmentation & Synergy-Data-Augmentation)
+     
 - 👀 I’m interested in using data science and machine learning to solve bio relevant problems
   
-- 🌱 I’m currently learning cancer genomics and utilizing bioinformatics tools for GWAS data processing
-- 👯 I’m looking to collaborate on GWAS based machine learning studies
+- 🌱 I’m currently learning RNASeq analysis
+- 👯 I’m looking to collaborate on machine learning based drug discovery, protein function prediction projects
 - 📫 How to reach me: gnsforthestudy@gmail.com/gsriva2@lsu.edu
 - ⚡ Fun fact: I work on weekends too!!!! 😆
 <!--
