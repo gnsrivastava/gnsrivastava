@@ -1,4 +1,4 @@
-- 👋 Hi!, I’m Gopal Srivastava, a Biological Sciences PhD candidate @ Louisiana State University
+- 👋 Hi!, I’m Gopal Srivastava, a Biological Sciences PhD candidate @ Louisiana State University working with Dr Michal Brylinski
   
 - 🔭 **I’m currently working on**
   1. Data based prediction of antibiotic resistance and susceptibility in mircobes
@@ -17,6 +17,8 @@
 - 👯 I’m looking to collaborate on machine learning based drug discovery, protein function prediction projects
 - 📫 How to reach me: gnsforthestudy@gmail.com/gsriva2@lsu.edu
 - ⚡ Fun fact: I work on weekends too!!!! 😆
+
+- Brylinski lab: https://www.brylinski.org
 <!--
 **gnsrivastava/gnsrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
