@@ -4,7 +4,6 @@
   1. Data based prediction of antibiotic resistance and susceptibility in mircobes
   2. LLM based binding affinity prediction of small molecules
   3. simulataneous node classification to predict binding affinity of small molecules
-  4. scRNA analysis project to identify the cancer stem cells and their driver genes in colorectal cancer
   5. GNN based gut microbial metabolism of the human metabolites
      
 - 💻 **Past Projects:**
