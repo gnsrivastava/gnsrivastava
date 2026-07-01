@@ -1,4 +1,4 @@
-- 👋 Hi!, I’m Gopal Srivastava, a Biological Sciences PhD candidate @ Louisiana State University working with Dr Michal Brylinski
+- 👋 Hi!, I’m Gopal Srivastava, a PhD Biological Sciences @ Louisiana State University working with Dr Michal Brylinski.
   
 - 🔭 **I’m currently working on**
   1. Data based prediction of antibiotic resistance and susceptibility in mircobes
