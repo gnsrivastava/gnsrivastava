@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on machine learning based drug discovery, protein function prediction projects
 - 📫 How to reach me: gnsforthestudy@gmail.com/gsriva@umich.edu
 
-- Chandrasekaran lab: [https://www.brylinski.org](https://systemsbiologylab.org/lab-members)
+- Chandrasekaran lab: [https://systemsbiologylab.org/lab-members]
 <!--
 **gnsrivastava/gnsrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
