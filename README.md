@@ -1,10 +1,9 @@
-- 👋 Hi!, I’m Gopal Srivastava, a PhD Biological Sciences @ Louisiana State University working with Dr Michal Brylinski.
+- 👋 Hi!, I’m Gopal Narayan Srivastava, a Postdoc Research Fellow of Biomedical Engineering @ University of Michigan working with Dr Sriram Chandrasekaran.
   
 - 🔭 **I’m currently working on**
-  1. Data based prediction of antibiotic resistance and susceptibility in mircobes
+  1. Data based prediction of anti-fungal drug pair
   2. LLM based binding affinity prediction of small molecules
-  3. simulataneous node classification to predict binding affinity of small molecules
-  5. GNN based gut microbial metabolism of the human metabolites
+  4. GNN based gut microbial metabolism of the human metabolites
      
 - 💻 **Past Projects:**
   1. Predicting the gut microbial metabolism of the human metabolites (GutMicrobeMetaboliteInteraction)
@@ -12,12 +11,10 @@
      
 - 👀 I’m interested in using data science and machine learning to solve bio relevant problems
   
-- 🌱 I’m currently learning RNASeq analysis
 - 👯 I’m looking to collaborate on machine learning based drug discovery, protein function prediction projects
-- 📫 How to reach me: gnsforthestudy@gmail.com/gsriva2@lsu.edu
-- ⚡ Fun fact: I work on weekends too!!!! 😆
+- 📫 How to reach me: gnsforthestudy@gmail.com/gsriva@umich.edu
 
-- Brylinski lab: https://www.brylinski.org
+- Chandrasekaran lab: [https://www.brylinski.org](https://systemsbiologylab.org/lab-members)
 <!--
 **gnsrivastava/gnsrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
